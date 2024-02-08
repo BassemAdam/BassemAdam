@@ -10,7 +10,7 @@ I am a passionate and dedicated programming student with a strong interest in th
 - **Programming Languages:** 
     <p align="left">
 	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	<a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
