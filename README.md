@@ -46,6 +46,7 @@ I am a passionate and dedicated programming student with a strong interest in th
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
 	</p>
+ 
 ## Education
 
 - **Bachelor of Computer engineering**
