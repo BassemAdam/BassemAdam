@@ -57,14 +57,13 @@ I am a passionate and dedicated programming student with a strong interest in th
   - Graduation: 2026/06
 
 ## Other fun stuff...
-	-i love anime so i creates edits here on that channel
+-i love anime so i creates edits here on that channel
   <p align="left">
 	  <a href="https://www.youtube.com/@RHGedits">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
 </p>
 
-youtube channel Video editing : 
 ## 📫 How to reach me ?
 
 - [LinkedIn] https://www.linkedin.com/in/bassemadam/
