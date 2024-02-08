@@ -8,7 +8,7 @@ I am a passionate and dedicated programming student with a strong interest in th
 ## Skills
 
 - **Programming Languages:** 
-    <p align="center">
+    <p align="left">
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
@@ -21,7 +21,7 @@ I am a passionate and dedicated programming student with a strong interest in th
 	</p>
 
 - **Web Development:**
-  <p align="center">
+  <p align="left">
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
