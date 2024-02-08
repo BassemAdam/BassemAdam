@@ -65,9 +65,15 @@ I am a passionate and dedicated programming student with a strong interest in th
 </p>
 
 ## 📫 How to reach me ?
+  <p align="left">
+	  <a href="https://www.linkedin.com/in/bassemadam/">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+	  <a href="basim.s.zeenelabdeen@gmail.com">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+</p>
 
-- [LinkedIn] https://www.linkedin.com/in/bassemadam/
-- Email: basim.s.zeenelabdeen@gmail.com
 
 
 
