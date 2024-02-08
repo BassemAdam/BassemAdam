@@ -53,6 +53,9 @@ I am a passionate and dedicated programming student with a strong interest in th
   - Cairo University, Giza,Egypt
   - Graduation: 2026/06
 
+## Other fun stuff...
+
+youtube channel Video editing : https://www.youtube.com/@RHGedits
 ## 📫 How to reach me ?
 
 - [LinkedIn] https://www.linkedin.com/in/bassemadam/
