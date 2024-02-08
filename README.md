@@ -13,26 +13,26 @@ I am a passionate and dedicated programming student with a strong interest in th
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	<a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	<a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	</p>
 
 - **Web Development:**
   <p align="left">
 	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 		  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:4px 2px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	</p>
 
@@ -40,13 +40,13 @@ I am a passionate and dedicated programming student with a strong interest in th
 - **Tools:** 
   <p align="left">
 	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	</p>
  
