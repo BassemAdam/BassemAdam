@@ -39,8 +39,8 @@ I am a passionate and dedicated programming student with a strong interest in th
 
 - **Tools:** 
   <p align="left">
-	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
+	  <a href="https://bassemadam.itch.io/dango">
+	    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
