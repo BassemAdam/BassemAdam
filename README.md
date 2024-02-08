@@ -20,29 +20,16 @@ I am a passionate and dedicated programming student with a strong interest in th
 
 ## Education
 
-- **Bachelor of Science in Computer Science**
-  - [University Name], [City, State]
-  - Graduation: [Month Year]
+- **Bachelor of Computer engineering**
+  - Cairo University, Giza,Egypt
+  - Graduation: 2026/06
 
-## Certifications
+## 📫 How to reach me ?
 
-- [Certification Name], [Issuing Organization], [Month Year]
+- [LinkedIn] https://www.linkedin.com/in/bassemadam/
+- Email: basim.s.zeenelabdeen@gmail.com
 
-## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-username)
-- [GitHub](https://github.com/your-username)
-- Email: your.email@example.com
 
-## Resume
 
-[Link to Resume](/path/to/your-resume.pdf)
-
-- 👋 Hi, I’m @BassemAdam still beginner 
-- 👀 I’m interested in frontend 
-- 🌱 I’m currently learning gameDevelopment
-- 💞️ I’m looking to collaborate on anything i can help in
-- 📫 How to reach me ? basimsherif.cbs.2020@gmail.com
-
-Tech I use...
 	
