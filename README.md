@@ -45,7 +45,7 @@ I am a passionate and dedicated programming student with a strong interest in th
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
- <a href="#">
+ <a href="https://leetcode.com/BassemAdam/">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
 	  </a>  
 	</p>
