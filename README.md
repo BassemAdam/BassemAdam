@@ -28,12 +28,24 @@ I am a passionate and dedicated programming student with a strong interest in th
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
+ <a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
 	</p>
 
-- **Database:** 
-- **Version Control:** 
-- **Tools:** 
 
+- **Tools:** 
+  <p align="center">
+	  <a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+	  <a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+ <a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+	</p>
 ## Education
 
 - **Bachelor of Computer engineering**
