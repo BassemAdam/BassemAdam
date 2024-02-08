@@ -35,7 +35,7 @@ I am a passionate and dedicated programming student with a strong interest in th
 
 
 - **Tools:** 
-  <p align="center">
+  <p align="left">
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
