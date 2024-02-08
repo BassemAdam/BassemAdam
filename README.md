@@ -12,16 +12,24 @@ I am a passionate and dedicated programming student with a strong interest in th
 	  <a href="#">
 	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
-
+	<a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+	<a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
 	</p>
 
 - **Web Development:**
   <p align="center">
 	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+	  </a>  
+	  <a href="#">
+	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 	  </a>  
 	</p>
-  
+
 - **Database:** 
 - **Version Control:** 
 - **Tools:** 
