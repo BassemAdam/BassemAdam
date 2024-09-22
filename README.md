@@ -1,78 +1,62 @@
+# 👋 Hello, I'm Basim Adam!
 
-# Helloooo, iam basim adam
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F743&width=435&lines=Passionate+Programming+Student;Three.js+Enthusiast;Anime+Lover+and+Editor)](https://git.io/typing-svg)
 
-## About Me
+## 🚀 About Me
 
-I am a passionate and dedicated programming student with a strong interest in three.js. I enjoy solving problems, exploring new technologies, and collaborating on innovative projects.
+I'm a dedicated programming student with a burning passion for Three.js and web development. My journey in the world of code is driven by an insatiable curiosity and a desire to create innovative solutions. When I'm not coding, you might find me editing anime videos or solving LeetCode problems!
 
-## Skills
+## 🛠️ Skills
 
-- **Programming Languages:** 
-    <p align="left">
-	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-	<a href="#">
-	    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-	<a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-	</p>
+### Programming Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **Web Development:**
-  <p align="left">
-	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-		  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-	  <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
- <a href="#">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-	</p>
+### Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
+### Tools & Platforms
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://bassemadam.itch.io/dango)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/BassemAdam/)
 
-- **Tools:** 
-  <p align="left">
-	  <a href="https://bassemadam.itch.io/dango">
-	    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
- <a href="https://leetcode.com/BassemAdam/">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/leetcode.svg" alt="example badge" style="vertical-align:top margin:2px 1px">
-	  </a>  
-	</p>
- 
-## Education
+## 🎓 Education
 
-- **Bachelor of Computer engineering**
-  - Cairo University, Giza,Egypt
-  - Graduation: 2026/06
+**Bachelor of Computer Engineering**  
+Cairo University, Giza, Egypt  
+Expected Graduation: June 2026
 
-## Other fun stuff...
--i love anime so i creates edits here on that channel
-  <p align="left">
-	  <a href="https://www.youtube.com/@RHGedits">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/youtube.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-	  </a>  
+## 🎬 Other Fun Stuff
+
+I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RHGedits)
+
+## 📊 GitHub Stats
+
+![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasimAdam&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasimAdam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌟 Featured Projects
+
+<!-- You can add your featured projects here with brief descriptions and links -->
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassemadam/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basim.s.zeenelabdeen@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BasimAdam&style=flat-square&color=blue" alt=""/>
 </p>
 
-## 📫 How to reach me ?
-  <p align="left">
-	  <a href="https://www.linkedin.com/in/bassemadam/">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-	  </a>  
-	  <a href="basim.s.zeenelabdeen@gmail.com">
-	    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-	  </a>  
+<p align="center">
+  <i>Let's turn coffee into code and dreams into reality! ☕💻✨</i>
 </p>
-
-
-
-
-
-	
