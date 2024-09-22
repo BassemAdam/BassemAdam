@@ -44,20 +44,20 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 
 ## 🌟 Featured Projects
 
-### [Wiki](https://github.com/BassemAdam/Wiki)
-
-<img src="https://opengraph.githubassets.com/1/BassemAdam/Wiki" alt="Wiki Project Preview" width="400">
-
-A Wikipedia-like online encyclopedia project built with Django. This project demonstrates my skills in web development, particularly with Python and the Django framework. It includes features such as:
-
-- Search functionality
-- Creation and editing of encyclopedia entries
-- Markdown to HTML conversion
-- Random page selection
-
-**Tech Stack:** Python, Django, HTML, CSS, Markdown
-
-[View Project](https://github.com/BassemAdam/Wiki) | [Live Demo](https://wikir.azurewebsites.net/Index) <!-- Add a live demo link if available -->
+<div align="center">
+  <img src="https://github.com/BassemAdam/BassemAdam/assets/YOUR_ASSET_ID/wiki_project_card.png" alt="Wiki Project" width="400">
+  <br><br>
+  <h3>Wiki Project</h3>
+  <p>A Wikipedia-like online encyclopedia built with Django</p>
+  <br>
+  <a href="https://github.com/BassemAdam/Wiki">
+    <img src="https://img.shields.io/badge/View_Project-4e2a84?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"> <!-- Replace # with your live demo link when available -->
+    <img src="https://img.shields.io/badge/Live_Demo-5c7cfa?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo">
+  </a>
+</div>
 
 ## 📫 Let's Connect!
 
