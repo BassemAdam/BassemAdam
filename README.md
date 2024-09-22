@@ -38,9 +38,9 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 
 ## 📊 GitHub Stats
 
-![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasimAdam&show_icons=true&theme=radical)
+![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassemAdam&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasimAdam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassemAdam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Featured Projects
 
