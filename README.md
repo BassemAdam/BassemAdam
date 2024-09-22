@@ -36,15 +36,12 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RHGedits)
 
-## 📊 GitHub Stats
-
-![Basim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BassemAdam&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassemAdam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Featured Projects
+### [Wiki](https://github.com/BassemAdam/Wiki)
+A Wikipedia-like online encyclopedia project built with Django. This project demonstrates my skills in web development, particularly with C# and the htmx. It includes features such as:
+[View Project](https://github.com/BassemAdam/Wiki) | [Live Demo](https://wikir.azurewebsites.net/Index) 
 
-<div align="center" style="margin-bottom: 40px;"> <img src="https://github.com/BassemAdam/BassemAdam/assets/YOUR_ASSET_ID/wiki_project_card.png" alt="Wiki Project" width="400" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);"> <h3 style="margin-top: 20px; font-size: 28px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Wiki Project</h3> <p style="font-size: 18px; color: #4b5563; max-width: 500px; line-height: 1.6;">A Wikipedia-like online encyclopedia built with Django, providing a platform to browse, create, and edit articles effortlessly.</p> <div style="margin-top: 25px;"> <a href="https://github.com/BassemAdam/Wiki" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View_Project-4e2a84?style=for-the-badge&logo=github&logoColor=white" alt="View Project" style="border-radius: 5px; padding: 10px;"> </a> &nbsp;&nbsp;&nbsp; <a href="#"> <!-- Replace # with your live demo link when available --> <img src="https://img.shields.io/badge/Live_Demo-5c7cfa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" style="border-radius: 5px; padding: 10px;"> </a> </div> </div>
 
 ## 📫 Let's Connect!
 
