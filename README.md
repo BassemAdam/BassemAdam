@@ -48,12 +48,41 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BassemAdam&theme=radical"/>
 </div>
 
-
 ## 🌟 Featured Projects
-### [Wiki](https://github.com/BassemAdam/Wiki)
-<img src="https://opengraph.githubassets.com/1/BassemAdam/Wiki" alt="Wiki Project Preview" width="400">
-A Wikipedia-like online encyclopedia project built with Django. This project demonstrates my skills in web development, particularly with C# and the htmx. It includes features such as:
-[View Project](https://github.com/BassemAdam/Wiki) | [Live Demo](https://wikir.azurewebsites.net/Index) 
+
+<div align="center">
+  <h3>🌐 Wiki Project</h3>
+  <p>
+    <a href="https://github.com/BassemAdam/Wiki">
+      <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+    </a>
+    <a href="https://wikir.azurewebsites.net/Index">
+      <img src="https://img.shields.io/badge/Live-Demo-FF6600?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo">
+    </a>
+  </p>
+  <p><i>A Wikipedia-like online encyclopedia built with modern web technologies</i></p>
+  <details>
+    <summary>📌 Key Features</summary>
+    <ul>
+      <li>🔍 Advanced search functionality</li>
+      <li>✏️ Creation and editing of encyclopedia entries</li>
+      <li>🔄 Markdown to HTML conversion</li>
+      <li>🎲 Random page selection</li>
+      <li>📱 Responsive design for mobile and desktop</li>
+    </ul>
+  </details>
+  <details>
+    <summary>🛠️ Tech Stack</summary>
+    <p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
+      <img src="https://img.shields.io/badge/HTMX-3366FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTMX">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    </p>
+  </details>
+</div>
+<!-- (Subsequent sections remain unchanged) -->
 
 
 ## 📫 Let's Connect!
