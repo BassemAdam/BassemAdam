@@ -44,20 +44,7 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <img src="https://github.com/BassemAdam/BassemAdam/assets/YOUR_ASSET_ID/wiki_project_card.png" alt="Wiki Project" width="400">
-  <br><br>
-  <h3>Wiki Project</h3>
-  <p>A Wikipedia-like online encyclopedia built with Django</p>
-  <br>
-  <a href="https://github.com/BassemAdam/Wiki">
-    <img src="https://img.shields.io/badge/View_Project-4e2a84?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"> <!-- Replace # with your live demo link when available -->
-    <img src="https://img.shields.io/badge/Live_Demo-5c7cfa?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo">
-  </a>
-</div>
+<div align="center" style="margin-bottom: 40px;"> <img src="https://github.com/BassemAdam/BassemAdam/assets/YOUR_ASSET_ID/wiki_project_card.png" alt="Wiki Project" width="400" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);"> <h3 style="margin-top: 20px; font-size: 28px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Wiki Project</h3> <p style="font-size: 18px; color: #4b5563; max-width: 500px; line-height: 1.6;">A Wikipedia-like online encyclopedia built with Django, providing a platform to browse, create, and edit articles effortlessly.</p> <div style="margin-top: 25px;"> <a href="https://github.com/BassemAdam/Wiki" style="text-decoration: none;"> <img src="https://img.shields.io/badge/View_Project-4e2a84?style=for-the-badge&logo=github&logoColor=white" alt="View Project" style="border-radius: 5px; padding: 10px;"> </a> &nbsp;&nbsp;&nbsp; <a href="#"> <!-- Replace # with your live demo link when available --> <img src="https://img.shields.io/badge/Live_Demo-5c7cfa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" style="border-radius: 5px; padding: 10px;"> </a> </div> </div>
 
 ## 📫 Let's Connect!
 
