@@ -39,6 +39,7 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 
 ## 🌟 Featured Projects
 ### [Wiki](https://github.com/BassemAdam/Wiki)
+<img src="https://opengraph.githubassets.com/1/BassemAdam/Wiki" alt="Wiki Project Preview" width="400">
 A Wikipedia-like online encyclopedia project built with Django. This project demonstrates my skills in web development, particularly with C# and the htmx. It includes features such as:
 [View Project](https://github.com/BassemAdam/Wiki) | [Live Demo](https://wikir.azurewebsites.net/Index) 
 
