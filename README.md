@@ -51,6 +51,39 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 ## 🌟 Featured Projects
 
 <div align="center">
+  <h3>🏠 Shelter Project</h3>
+  <p>
+    <a href="https://github.com/BassemAdam/Shelter">
+      <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
+    </a>
+    <a href="https://shelter.prod.demoday.us/">
+      <img src="https://img.shields.io/badge/Live-Demo-FF6600?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo">
+    </a>
+  </p>
+  <p><i>A comprehensive platform connecting tenants and landlords in Egypt, fostering trust and transparency</i></p>
+  <details>
+    <summary>📌 Key Features</summary>
+    <ul>
+      <li>🏠 Listings for rental properties</li>
+      <li>🤝 Secure tenant-landlord communication</li>
+      <li>📄 Digital lease agreements</li>
+      <li>📊 Analytics for property performance</li>
+      <li>📱 Optimized for mobile and desktop use</li>
+    </ul>
+  </details>
+  <details>
+    <summary>🛠️ Tech Stack</summary>
+    <p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    </p>
+  </details>
+</div>
+
+<div align="center">
   <h3>🌐 Wiki Project</h3>
   <p>
     <a href="https://github.com/BassemAdam/Wiki">
