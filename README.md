@@ -130,5 +130,5 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 </p>
 
 <p align="center">
-  <i>Let's turn coffee into code and dreams into reality! ☕💻✨</i>
+  <i>whatever</i>
 </p>
