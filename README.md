@@ -56,7 +56,7 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
     <a href="https://github.com/BassemAdam/Shelter">
       <img src="https://img.shields.io/badge/GitHub-View_Repository-2ea44f?style=for-the-badge&logo=github" alt="View Repository">
     </a>
-    <a href="https://shelter.prod.demoday.us/">
+    <a href="https://igethospitality.com/">
       <img src="https://img.shields.io/badge/Live-Demo-FF6600?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Demo">
     </a>
   </p>
