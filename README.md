@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Basim Adam!
+# Hello, I'm Basim Adam!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F743&width=435&lines=Passionate+Programming+Student;Three.js+Enthusiast;Anime+Lover+and+Editor)](https://git.io/typing-svg)
 
-## 🚀 About Me
+## About Me
 
 I'm a dedicated programming student with a burning passion for Three.js and web development. My journey in the world of code is driven by an insatiable curiosity and a desire to create innovative solutions. When I'm not coding, you might find me editing anime videos or solving LeetCode problems!
 
-## 🛠️ Skills
+## Skills
 
 ### Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,11 +24,11 @@ I'm a dedicated programming student with a burning passion for Three.js and web 
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://bassemadam.itch.io/dango)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/BassemAdam/)
 
-## 🎓 Education
+## Education
 
 **Bachelor of Computer Engineering**  
 Cairo University, Giza, Egypt  
-Expected Graduation: June 2026
+Graduated: June 2026
 
 ## 🎬 Other Fun Stuff
 
@@ -36,7 +36,7 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RHGedits)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BassemAdam&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -48,7 +48,7 @@ I'm an anime enthusiast who loves to create edits! Check out my YouTube channel:
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BassemAdam&theme=radical"/>
 </div>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
   <h3>🏠 Shelter Project</h3>
